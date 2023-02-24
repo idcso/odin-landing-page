@@ -8,7 +8,7 @@
 /* -------------------- Header styles -------------------- */
 .header {
 	background-color: #1F2937;
-	min-height: 400px;
+	min-height: 550px;
 	padding: 20px 300px;
 	color: #E5E7EB;
 	font-size: 18px;
@@ -28,7 +28,7 @@
 .nav-list {
 	list-style-type: none;
 	display: flex;
-	gap: 16px;
+	gap: 25px;
 }
 .nav-list li a {
 	text-decoration: none;
@@ -38,6 +38,12 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+}
+.header-info {
+	width: 450px;
+}
+.header-subtext {
+	margin-bottom: 15px;
 }
 .header-title {
 	font-size: 48px;
