@@ -37,6 +37,7 @@
 .header-content {
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 }
 .header-title {
 	font-size: 48px;
@@ -51,4 +52,8 @@
 	color: #F9FAF8;
 	font-weight: bold;
 	font-size: 18px;
+}
+.header-img {
+	width: 700px;
+	height: 250px;
 }
