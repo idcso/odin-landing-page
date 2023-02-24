@@ -110,3 +110,32 @@
 	text-align: right;
 	padding-right: 30px;
 }
+
+/* -------------------- Sign-up styles -------------------- */
+.sign-up {
+	margin: 100px 350px;
+	padding: 50px 150px;
+	border-radius: 10px;
+	background-color: #3882F6;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	color: #F9FAF8;
+}
+.sign-up_title {
+	font-size: 24px;
+	font-weight: 700;
+}
+.sign-up_text {
+	font-size: 18px;
+}
+.sign-up_button {
+	font-size: 18px;
+	font-weight: 700;
+	text-decoration: none;
+	color: #F9FAF8;
+	display: block;
+	padding: 10px 45px;
+	border: 2px solid #F9FAF8;
+	border-radius: 10px;
+}
